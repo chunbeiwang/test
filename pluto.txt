@@ -1,7 +1,8 @@
 Hi this is a file. What is this? Now I would like to add something, but meanwhile, I wanna see what happens here
 
-I will also ask the owner to add something to it, we will then have a conflict. No problem
+I will also ask the owner to add something to it, we will then have a conflict. 
 
 Hi this is a file!!!!! So  How about this?
 
-whats up??????
+
+I will add more stuff here..
