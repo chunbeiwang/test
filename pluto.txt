@@ -1,16 +1,11 @@
 Hi this is a file. What is this? Now I would like to add something, but meanwhile, I wanna see what happens here
 
-I will also ask the owner to add something to it, we will then have a conflict. 
+I will also ask the owner to add something to it, we will then have a conflict.
 
 Hi this is a file!!!!! So  How about this?
 
-<<<<<<< HEAD
 whats up??????
 
 I need to add more.
 
 Another sentence
-=======
-
-I will add more stuff here..
->>>>>>> 2c533c13bddae57775469c81d79db7d4fb9bd33f
