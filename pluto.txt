@@ -1,7 +1,7 @@
-Hi this is a file. So good. Now I would like to add something, but meanwhile,
+Hi this is a file. So good. Now I would like to add something, but meanwhile, I wanna see what happens here
 
 I will also ask the owner to add something to it, we will then have a conflict. No problem
 
-Hi this is a file. So good. X
+Hi this is a file!!!!! So good. X How about this?
 
 whats up??????
